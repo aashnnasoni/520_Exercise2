@@ -46,7 +46,7 @@
 | solutions/Problem_9/gpt_prompt_1.py | 18 | 100.0 | 4 | 100.0 | 150/150|
 | solutions/Problem_9/gpt_prompt_2.py | 18 | 100.0 | 4 | 100.0 | 150/150 |
 | solutions/Problem_10/__init__.py | 0 | 100.0 | 0 | 100.0 |  |
-| solutions/Problem_10/claude_prompt_1.py | 3 | 100.0 | 0 | 100.0 | 162/162 |
-| solutions/Problem_10/claude_prompt_2.py | 3 | 100.0 | 2 | 100.0 | 162/162 |
-| solutions/Problem_10/gpt_prompt_1.py | 3 | 100.0 | 2 | 100.0 | 162/162 |
-| solutions/Problem_10/gpt_prompt_2.py | 3 | 100.0 | 0 | 100.0 | 162/162 |
+| solutions/Problem_10/claude_prompt_1.py | 10 | 100.0 | 0 | 100.0 | 162/162 |
+| solutions/Problem_10/claude_prompt_2.py | 12 | 100.0 | 2 | 100.0 | 162/162 |
+| solutions/Problem_10/gpt_prompt_1.py | 12 | 100.0 | 2 | 100.0 | 162/162 |
+| solutions/Problem_10/gpt_prompt_2.py | 10 | 100.0 | 0 | 100.0 | 162/162 |
