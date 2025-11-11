@@ -1,0 +1,21 @@
+"""Solution variant for Problem 7 — GPT prompt 2."""
+
+from __future__ import annotations
+
+
+def solve(input_data: str) -> str:
+    """Implement the GPT-prompt-2 solution here."""
+  
+    n, k, t = map(int, input_data.split())
+    if t <= k:
+        return str(t)
+    elif t <= n:
+        return str(k)
+    else:
+        return str(n + k - t)
+
+
+
+
+
+
